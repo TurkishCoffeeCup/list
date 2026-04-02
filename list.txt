@@ -28,6 +28,4 @@ tungsten_cube_large|Tungsten Cube Large|#00FFFF|minecart.TungstenCube.Spawnable.
 tungsten_cube_huge|Tungsten Cube Huge|#00FFFF|minecart.TungstenCube.Spawnable.TungstenCubeHuge
 aluminum_cube|Aluminum Cube|#00FFFF|minecart.TungstenCube.Spawnable.AluminumCube
 silver_cube|Silver Cube|#00FFFF|minecart.TungstenCube.Spawnable.SilverCube
-
-[Punches]
 violet|Violet|#00FFFF|Curiosity.BlackFlash.Avatar.VioletRupture
