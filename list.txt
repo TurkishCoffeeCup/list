@@ -31,3 +31,4 @@ silver_cube|Silver Cube|#00FFFF|minecart.TungstenCube.Spawnable.SilverCube
 
 [Punches]
 Curiosity.BlackFlash.Avatar.VioletRupture
+violet|Violet|#00FFFF|Curiosity.BlackFlash.Avatar.VioletRupture
