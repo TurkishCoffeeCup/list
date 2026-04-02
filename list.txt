@@ -30,5 +30,4 @@ aluminum_cube|Aluminum Cube|#00FFFF|minecart.TungstenCube.Spawnable.AluminumCube
 silver_cube|Silver Cube|#00FFFF|minecart.TungstenCube.Spawnable.SilverCube
 
 [Punches]
-Curiosity.BlackFlash.Avatar.VioletRupture
 violet|Violet|#00FFFF|Curiosity.BlackFlash.Avatar.VioletRupture
