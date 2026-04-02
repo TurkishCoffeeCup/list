@@ -1,2 +1,30 @@
+# id|label|colorHex|barcode1,barcode2,barcode3
 
-bb
+[Rocks]
+cave_boulder_b|Cave Boulder B|#FFFFFF|SLZ.BONELAB.Content.Spawnable.CaveBoulderB
+cave_boulder_c|Cave Boulder C|#FFFFFF|SLZ.BONELAB.Content.Spawnable.CaveBoulderC
+cave_small_rock|Cave Small Rock|#FFFFFF|SLZ.BONELAB.Content.Spawnable.CaveSmallRock,MegaSonic64.BLPatch3PropPack.Spawnable.CaveSmallRock
+
+[Vehicles]
+combat_tank|Combat Tank|#00FF00|Raycast.CombatTank.Spawnable.Tank
+police_car|Police Car|#00FF00|Mega1164.MegasCarPack.Spawnable.PoliceCar
+
+[Weapons]
+mjolnir|Mjolnir|#FF0000|Fishstick.ThorsWeapons.Spawnable.Mjolnir
+mjolnir_worthy|Mjolnir Worthy|#FF0000|Fishstick.ThorsWeapons.Spawnable.MjolnirWorthyVersion
+jarate|Jarate|#FFFF00|BaBaCorp.MiscExplosiveDevices.Spawnable.Jarate
+dumbbell_15|Dumbbell 15|#FF0000|MegaSonic64.BWPropPack.Spawnable.Dumbell15
+concrete_base|Concrete Base|#808080|MegaSonic64.BWPropPack.Spawnable.ConcreteBase
+american_shield|American Shield|#0000FF|Drax.DraxPack.Spawnable.AmericanShield
+claws|Claws|#FF0000|Drax.DraxPack.Spawnable.Claws
+projectile_flames|Projectile Flames|#FF8000|InnocentCitizen.Helldivers2WeaponPack.Spawnable.ProjectileFlames
+stab_star|Stab Star|#FF00FF|GamingPolitician.TraumatizerHammer.Spawnable.StabStar
+tungsten_mace|Tungsten Mace|#808080|minecart.TungstenCube.Spawnable.TungstenMace
+
+[Cubes]
+tungsten_cube|Tungsten Cube|#00FFFF|minecart.TungstenCube.Spawnable.TungstenCube
+osmium_cube|Osmium Cube|#00FFFF|minecart.TungstenCube.Spawnable.OsmiumCube
+tungsten_cube_large|Tungsten Cube Large|#00FFFF|minecart.TungstenCube.Spawnable.TungstenCubeLarge
+tungsten_cube_huge|Tungsten Cube Huge|#00FFFF|minecart.TungstenCube.Spawnable.TungstenCubeHuge
+aluminum_cube|Aluminum Cube|#00FFFF|minecart.TungstenCube.Spawnable.AluminumCube
+silver_cube|Silver Cube|#00FFFF|minecart.TungstenCube.Spawnable.SilverCube
